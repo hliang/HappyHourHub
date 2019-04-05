@@ -1,14 +1,14 @@
-## Project-2
+## Happy Hour Hub
 
 ## What Our App Is:
 
 Scalable User Input Application focussing on making the user aware of events happening near them. The earliest iteration is a user driven happy hour app that allows people to add and rate happy hours near them.
 
 ## Who We Are:
-* Daniel Marshal
-* Hanquan Liang
-* Jonathan Tran
-* Salman Karim
+* D. M.
+* H. L.
+* J. T.
+* S. K.
 
 ## Deployed Demo
 
