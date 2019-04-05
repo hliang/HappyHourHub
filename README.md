@@ -28,7 +28,7 @@ Scalable User Input Application focussing on making the user aware of events hap
 
 ## Demo
 
-![](P2-demo.gif)
+![](https://github.com/skay97/project-2/raw/master/P2-demo.gif)
 
 ### Installing Dependencies
 
