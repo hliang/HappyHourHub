@@ -4,12 +4,6 @@
 
 Scalable User Input Application focussing on making the user aware of events happening near them. The earliest iteration is a user driven happy hour app that allows people to add and rate happy hours near them.
 
-## Who We Are:
-* D. M.
-* H. L.
-* J. T.
-* S. K.
-
 ## Deployed Demo
 
 * https://banana-sundae-26226.herokuapp.com/
@@ -29,13 +23,3 @@ Scalable User Input Application focussing on making the user aware of events hap
 ## Demo
 
 ![](https://github.com/skay97/project-2/raw/master/P2-demo.gif)
-
-### Installing Dependencies
-
-From within the root directory:
-
-```sh
-
-npm install
-
-```
